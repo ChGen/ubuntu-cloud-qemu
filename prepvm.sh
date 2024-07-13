@@ -1,5 +1,6 @@
 #!/bin/bash -e
 # images: https://cloud-images.ubuntu.com/jammy/current/
+# https://cloud-images.ubuntu.com/noble/current/
 
 baseDir="$(dirname $0)"
 cd "$baseDir"
